@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/navigationPhoto"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/photo"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/navigationRealTimeTracking"
+        android:icon="@drawable/ic_menu_share"
+        android:title="@string/real_time_tracking"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/navigationShowRoute"
+        android:icon="@drawable/ic_menu_send"
+        android:title="@string/about_us"
+        app:showAsAction="always|withText"/>
+
+
+</menu>

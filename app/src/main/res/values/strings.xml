@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogiNext</string>
+    <string name="splash_string">LogiNext</string>
+    <string name="title_activity_maps_test">Map</string>
+    <string name="fingerprint">AC:0A:AB:D9:D2:5A:4B:2E:47:1E:96:03:30:50:DC:7F:E1:E5:2A:E2</string>
+    <string name="photo">Photo</string>
+    <string name="real_time_tracking">Real-Time Tracking</string>
+    <string name="about_us">Show Route</string>
+    <string name="take_picture">Take picture</string>
+</resources>
